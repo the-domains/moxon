@@ -1,0 +1,28 @@
+name: Moxon
+favicon: null
+layout_spectrum: 0.9720017926301807
+typography_spectrum: 0.612390199676156
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.30870048492215574
+  lightness: 0.7772941766306758
+  saturation: 0.37311070295982063
+  rhythmicContrast: 0.017575520323589444
+purpose: []
